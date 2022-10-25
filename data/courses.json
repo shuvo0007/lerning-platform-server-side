@@ -29,7 +29,7 @@
   },
   {
     "_id": "3",
-    "category_id":"01",
+    "category_id":"02",
     "instructor_image": "https://repto.com.bd/uploads/avatar/original/user_28_pXK6XMIq.jpeg",
     "course_image": "https://repto.com.bd/uploads/course/banner_img/course_47.png",
     "title": "Introduction to Java Programming",
@@ -43,7 +43,7 @@
   },
   {
     "_id": "4",
-    "category_id":"01",
+    "category_id":"03",
     "instructor_image": "https://repto.com.bd/uploads/avatar/original/user_17020_lS0b8BF2.jpg",
     "course_image": "https://repto.com.bd/uploads/course/banner_img/course_70.png",
     "title": "The Complete Java Developer Course",

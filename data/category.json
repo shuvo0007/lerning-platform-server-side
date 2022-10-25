@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "name": "Development",
+    "image": "https://i0.wp.com/oecd-development-matters.org/wp-content/uploads/2022/07/Industry-technologies-development-matters.jpg?w=1200&ssl=1"
+  },
+  {
+    "id": "02",
+    "name": "Digital Marketing",
+    "image": "https://etimg.etb2bimg.com/photo/89866384.cms"
+  },
+  {
+    "id": "03",
+    "name": "Soft Skills",
+    "image": "https://elearningindustry.com/wp-content/uploads/2015/02/shutterstock_164393432.jpg"
+  },
+  {
+    "id": "04",
+    "name": "Science and Technology",
+    "image": "https://sdi.ai/wp-content/uploads/2020/01/WSFsaN0-1.jpeg"
+  },
+  {
+    "id": "05",
+    "name": "Video Editing and Animation",
+    "image": "https://wcm-cdn.wacom.com/-/media/images/discover-2020/film-and-animation/the-best-video-editing-techniques/wacom-film-animation-best-video-editing-techniques-m-i.jpg?rev=4ba7271688574777889fea8b0817816e&hash=6836C8D7DC20EEF9E1A5C44C887AEB93"
+  },
+  {
+    "id": "06",
+    "name": "Graphic Design",
+    "image": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg"
+  }
+]

@@ -20,7 +20,8 @@ app.get("/category/:id", (req, res) => {
   const categoryById = category.filter((n) => n.id === id);
   res.send(categoryById);
 });
-
+{
+}
 app.listen(port, () => {
   console.log("Digital Learning server running on port", port);
 });
